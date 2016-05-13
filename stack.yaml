@@ -1,0 +1,8 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- dates-0.2.2.1
+- strptime-1.0.10
+resolver: lts-3.19
